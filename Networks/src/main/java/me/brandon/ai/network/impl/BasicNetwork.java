@@ -52,7 +52,7 @@ public class BasicNetwork implements Network
 	@Override
 	public void train(double... desired)
 	{
-		
+
 	}
 
 	public double[][] getComputedNetworkValues()
